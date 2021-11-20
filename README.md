@@ -1,5 +1,5 @@
 
-# Computer acrchitecture LAB   ( Spring 2021 )
+# Computer Architecture LAB   ( Spring 2021 )
 
 ### This is an instruction of CA LAB of [CE@AUT](https://ce.aut.ac.ir/)
 #### Made by me and [Ahmad Foroughi](https://github.com/pyhp2017)
