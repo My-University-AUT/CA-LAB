@@ -31,6 +31,10 @@
 
 #### [LAB 10](https://github.com/alinowrouzii/CA-LAB/tree/master/LAB10)
 * #### Subtractor with IEEE Floating Point Format
+
+#### [LAB 11 and 12](https://github.com/alinowrouzii/CA-LAB/tree/master/LAB11%2612)
+* #### Mano machine
+
 #### [GCD (Greatest common divisor)](https://github.com/alinowrouzii/CA-LAB/tree/master/gcd__calculator_vhdl)
 * #### It calculates GCD of two 4bit numbers (Up to 15)
 #### [Selection sort](https://github.com/alinowrouzii/CA-LAB/tree/master/selection-sort)
